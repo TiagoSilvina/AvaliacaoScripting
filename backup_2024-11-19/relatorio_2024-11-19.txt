@@ -1,0 +1,19 @@
+Caminho: /c/Users/tiago/Desktop/Citeforma/DataAnalytics/Scripting/AvaliacaoScripting/
+ 
+Lista de arquivos:
+10500w.txt - Categoria: grande
+10001.txt - Categoria: grande
+5000w.txt - Categoria: médio
+1000w.txt - Categoria: médio
+500w.txt - Categoria: pequeno
+avaliacao_final.sh - Categoria: pequeno
+
+Arquivos pequenos (<=1000 palavras): 2
+Arquivos médios (1000-10000 palavras): 2
+Arquivos grandes (>10000 palavras): 2
+Total de arquivos processados: 6
+Média de palavras por arquivo: 4492
+Arquivo com maior número de palavras: 10500w.txt (10038 palavras)
+Cidade: lisbon
+Temperatura: 290.04
+Condição do tempo: fog
